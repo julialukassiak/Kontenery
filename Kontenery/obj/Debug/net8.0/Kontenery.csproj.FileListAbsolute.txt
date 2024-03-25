@@ -1,0 +1,14 @@
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/bin/Debug/net8.0/Kontenery
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/bin/Debug/net8.0/Kontenery.deps.json
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/bin/Debug/net8.0/Kontenery.runtimeconfig.json
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/bin/Debug/net8.0/Kontenery.dll
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/bin/Debug/net8.0/Kontenery.pdb
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.AssemblyInfoInputs.cache
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.AssemblyInfo.cs
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.dll
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/refint/Kontenery.dll
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.pdb
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/Kontenery.genruntimeconfig.cache
+/Users/julia/Desktop/pjatk notatki/semestr4/APBD/Kontenery/Kontenery/obj/Debug/net8.0/ref/Kontenery.dll
